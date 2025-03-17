@@ -1,1 +1,1 @@
-# reactjs-cosmograph-extensions
+# React + Vite
